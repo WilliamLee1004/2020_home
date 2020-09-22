@@ -30,3 +30,4 @@ return p1 * p2;
 
 :fu:
 :thumbsup:
+[emojie](https://www.webfx.com/tools/emoji-cheat-sheet/ "emojie")
